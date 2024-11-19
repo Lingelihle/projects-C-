@@ -1,0 +1,10 @@
+C:\Users\User\source\repos\SECTION 2 SA\SECTION 2 SA\bin\Debug\SECTION 2 SA.exe.config
+C:\Users\User\source\repos\SECTION 2 SA\SECTION 2 SA\bin\Debug\SECTION 2 SA.exe
+C:\Users\User\source\repos\SECTION 2 SA\SECTION 2 SA\bin\Debug\SECTION 2 SA.pdb
+C:\Users\User\source\repos\SECTION 2 SA\SECTION 2 SA\obj\Debug\SECTION 2 SA.csproj.AssemblyReference.cache
+C:\Users\User\source\repos\SECTION 2 SA\SECTION 2 SA\obj\Debug\SECTION_2_SA.Form1.resources
+C:\Users\User\source\repos\SECTION 2 SA\SECTION 2 SA\obj\Debug\SECTION_2_SA.Properties.Resources.resources
+C:\Users\User\source\repos\SECTION 2 SA\SECTION 2 SA\obj\Debug\SECTION 2 SA.csproj.GenerateResource.cache
+C:\Users\User\source\repos\SECTION 2 SA\SECTION 2 SA\obj\Debug\SECTION 2 SA.csproj.CoreCompileInputs.cache
+C:\Users\User\source\repos\SECTION 2 SA\SECTION 2 SA\obj\Debug\SECTION 2 SA.exe
+C:\Users\User\source\repos\SECTION 2 SA\SECTION 2 SA\obj\Debug\SECTION 2 SA.pdb
